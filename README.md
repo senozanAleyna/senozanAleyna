@@ -19,6 +19,9 @@ Here are some ideas to get you started:
 
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senozanAleyna&theme=tokyonight)
+
+
 ## ✉️ Find me on:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -33,6 +36,4 @@ Here are some ideas to get you started:
 [linkedin]: https://linkedin.com/in/aleyna-şenozan
 [gmail]: mailto:senozanAleyna@gmail.com
 
-<br />
-<br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senozanAleyna&theme=tokyonight)
+
