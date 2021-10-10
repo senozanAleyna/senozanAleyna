@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 
 [instagram]: https://www.instagram.com/aleynasenozan/
-[linkedin]: https://linkedin.com/in/aleyna-şenozan
+[linkedin]: https://linkedin.com/in/aleyna-senozan
 [gmail]: mailto:senozanAleyna@gmail.com
 
 
