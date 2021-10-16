@@ -1,4 +1,4 @@
-### Hi there 👋�
+### Hi there 👋
 - 🔭 I’m currently working on data science
 - 🌱 I’m currently learning artifical intelligence and python
 - 💬 Ask me about Python, C#
