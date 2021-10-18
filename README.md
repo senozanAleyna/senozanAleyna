@@ -4,6 +4,7 @@
 - 💬 Ask me about Python, C#
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senozanAleyna&layout=compact)](https://github.com/senozanAleyna/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senozanAleyna&theme=tokyonight)
 
