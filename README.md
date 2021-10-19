@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on data science
-- 🌱 I’m currently learning artifical intelligence and python
+- 🔭 I’m currently working on javascript project
+- 🌱 I’m currently learning data science and python
 - 💬 Ask me about Python, C#
 
 
