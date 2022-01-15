@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🌱 I’m currently learning data science and python
-- 💬 Ask me about Python, C#
+- 🌱 I’m currently learning data science 
+- 💬 Ask me about Python
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senozanAleyna&layout=compact)](https://github.com/senozanAleyna/github-readme-stats)
