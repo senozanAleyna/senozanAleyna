@@ -1,17 +1,20 @@
 ### Hi there 👋
-- 🌱 I’m currently learning data science 
-- 💬 Ask me about Python
+- 🌱 I’m currently learning data science, machine learning and artificial intelligence.
+- 💬 Ask me about Python,Python and C#/Java 
+- :atom: I'm using SQL Server Database Systems.
 
+- 📌Nowadays, I am working on unity cause I have taken project at school with my team.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senozanAleyna&layout=compact)](https://github.com/senozanAleyna/github-readme-stats)
 
 
-## 💪 My Skills:
+## 💪 Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="dotNet" alt="dotNet" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <br />
   <br />
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>&nbsp;
@@ -24,6 +27,7 @@
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" />][gmail]
 [<img align="left" height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.25.0/icons/medium.svg" />][medium]
 
+<br />
 <br />
 
 
