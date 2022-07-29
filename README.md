@@ -1,7 +1,7 @@
 ### Hi there :woman_technologist:
 - 🌱 I’m currently learning data science, machine learning and artificial intelligence.
-- 💬 Ask me about Python and C#/Java 
-- :floppy_disk: I'm using SQL Server Database Systems.
+- 💬 Ask me about Python and C# .
+- :floppy_disk: I'm using SQL Server/Postgre Database Systems.
 
 - 📌Nowadays, I am working on unity cause I have taken project at school with my team.
 
