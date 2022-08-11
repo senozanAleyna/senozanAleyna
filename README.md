@@ -3,7 +3,6 @@
 - 💬 Ask me about Python and C# .
 - :floppy_disk: I'm using SQL Server/Postgre Database Systems.
 
-- 📌Nowadays, I am working on unity cause I have taken project at school with my team.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senozanAleyna&layout=compact)](https://github.com/senozanAleyna/github-readme-stats)
 
